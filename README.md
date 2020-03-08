@@ -1,5 +1,7 @@
 # FreeXanta 1.0.0.0
 
+https://github.com/trkangcc/FreeXanta_release/releases/tag/ver1.0.0.0
+
 ## PC Application 설치
 * 프로그램의 설치는 설치가 제거된 상태에서 설치해 주십시오.
 (이번 버전이 최초 릴리즈이지만 기존 개발자 릴리즈때 설치한 분은 설치 제거후 설치해주세요.)
