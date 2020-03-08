@@ -1,5 +1,7 @@
 # FreeXanta 1.0.0.0
 
+프로그램은 다음 경로에서 다운받으세요.
+
 https://github.com/trkangcc/FreeXanta_release/releases/tag/ver1.0.0.0
 
 ## PC Application 설치
